@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ion"
+        android:icon="@drawable/charges"
+        android:title="Ion" />
+    <item
+        android:id="@+id/kovalen"
+        android:icon="@drawable/particles"
+        android:title="Kovalen" />
+    <item
+        android:id="@+id/bentuk"
+        android:icon="@drawable/shape"
+        android:title="Bentuk" />
+    <item
+        android:id="@+id/dupletoktet"
+        android:icon="@drawable/ic_book"
+        android:title="Kaidah" />
+    <item
+        android:id="@+id/interaksi"
+        android:icon="@drawable/chain"
+        android:title="Interaksi" />
+</menu>

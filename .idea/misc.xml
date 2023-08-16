@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/activity_dashboard.xml" value="0.3148148148148148" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/activity_main.xml" value="0.3148148148148148" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/activity_materi.xml" value="0.2" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/dialog_imgmateri.xml" value="0.1" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/fragment_ion.xml" value="0.20679012345679013" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/fragment_materi.xml" value="0.20679012345679013" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/fragment_tujuan.xml" value="0.18" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/item_tujuan.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout-land/simulation.xml" value="0.19025224454895254" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/activity_dashboard.xml" value="0.3052586575459598" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/activity_main.xml" value="0.3052586575459598" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/activity_materi.xml" value="0.2176143651132963" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/activity_splash.xml" value="0.20051303976058144" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/dialog_imgmateri.xml" value="0.21350861287398004" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/fragment_dashboard.xml" value="0.1996579734929457" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/fragment_ion.xml" value="0.18" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/fragment_materi.xml" value="0.20051303976058144" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/fragment_tujuan.xml" value="0.1" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/item_tujuan.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/layout/simulation.xml" value="0.20051303976058144" />
+        <entry key="..\:/Documents/Android/LabKimVirtual Refresh/app/src/main/res/menu/menu_dashboard.xml" value="0.3052586575459598" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.268" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/drawable/ic_launcher_background.xml" value="0.268" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/ikatanion.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/ikatankov.xml" value="0.2630208333333333" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/ikatanlogam.xml" value="0.33" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/ionsim.xml" value="0.22" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/kovsim.xml" value="0.2630208333333333" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/mainmenu.xml" value="0.22" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/materimenu.xml" value="0.25" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/simsmenu.xml" value="0.371875" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/simulation.xml" value="0.18" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/layout/splash.xml" value="0.2630208333333333" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.249" />
+        <entry key="..\:/Documents/Android/LabKimVirtual/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.268" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kemaszaid.labkimvirtual">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logosmal"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sipekomandroid">
+
+        <!--  First Activity  -->
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="landscape"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--  Later Activities  -->
+        <activity android:name=".MainActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".DashboardActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".MateriIonActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".MateriKovActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".MateriInteraksiActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".MateriKaidahActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".MateriBentukActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".IonSimActivity" android:screenOrientation="landscape"/>
+        <activity android:name=".KovSimActivity" android:screenOrientation="landscape"/>
+
+    </application>
+
+</manifest>
